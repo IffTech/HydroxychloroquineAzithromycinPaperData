@@ -1,0 +1,49 @@
+REMARK  Name = C:\Users\samar\iffplatform1\src\activity\accessor\component\dao\Nitintest\hydroxychloroquine.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_3  and  C_9
+REMARK    2  A    between atoms: N_3  and  C_10
+REMARK    3  A    between atoms: N_3  and  C_12
+REMARK    4  A    between atoms: N_4  and  C_13
+REMARK    5  A    between atoms: C_6  and  C_8
+REMARK    6  A    between atoms: C_7  and  C_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      4  N   UNK     0       9.748   2.522   0.000  0.00  0.00    +0.000 NA
+ATOM      8  C   UNK     0       8.415   1.752   0.000  0.00  0.00    +0.000 C 
+ATOM     11  C   UNK     0       7.081   2.522   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   4  13
+ATOM      1 Cl   UNK     0      15.185   7.179   0.000  0.00  0.00    +0.000 Cl
+ATOM      5  N   UNK     0       9.748   7.142   0.000  0.00  0.00    +0.000 NA
+ATOM     13  C   UNK     0       9.748   4.062   0.000  0.00  0.00    +0.000 A 
+ATOM     16  C   UNK     0      11.082   4.832   0.000  0.00  0.00    +0.000 A 
+ATOM     17  C   UNK     0       8.415   4.832   0.000  0.00  0.00    +0.000 A 
+ATOM     18  C   UNK     0      11.082   6.372   0.000  0.00  0.00    +0.000 A 
+ATOM     19  C   UNK     0      12.459   4.009   0.000  0.00  0.00    +0.000 A 
+ATOM     20  C   UNK     0       8.415   6.372   0.000  0.00  0.00    +0.000 A 
+ATOM     21  C   UNK     0      12.459   7.195   0.000  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK     0      13.854   4.800   0.000  0.00  0.00    +0.000 A 
+ATOM     23  C   UNK     0      13.854   6.404   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH   4  13
+BRANCH   8   6
+ATOM      6  C   UNK     0       8.415   0.212   0.000  0.00  0.00    +0.000 C 
+ATOM      7  C   UNK     0       7.081  -0.558   0.000  0.00  0.00    +0.000 C 
+BRANCH   7   9
+ATOM      9  C   UNK     0       7.081  -2.098   0.000  0.00  0.00    +0.000 C 
+BRANCH   9   3
+ATOM      3  N   UNK     0       5.747  -2.868   0.000  0.00  0.00    +0.000 N 
+BRANCH   3  10
+ATOM      2  O   UNK     0       4.414  -6.718   0.000  0.00  0.00    +0.000 OA
+ATOM     10  C   UNK     0       5.747  -4.408   0.000  0.00  0.00    +0.000 C 
+ATOM     14  C   UNK     0       4.414  -5.178   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   3  10
+BRANCH   3  12
+ATOM     12  C   UNK     0       4.414  -2.098   0.000  0.00  0.00    +0.000 C 
+ATOM     15  C   UNK     0       3.080  -2.868   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   3  12
+ENDBRANCH   9   3
+ENDBRANCH   7   9
+ENDBRANCH   8   6
+TORSDOF 6

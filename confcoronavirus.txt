@@ -1,0 +1,13 @@
+receptor = sanitized_6lzg.pdbqt
+ligand = azithromycin.pdbqt
+
+
+center_x = -24.372	
+center_y = 31.087
+center_z = 17.17
+
+size_x = 126
+size_y = 126
+size_z = 126
+
+exhaustiveness = 8
