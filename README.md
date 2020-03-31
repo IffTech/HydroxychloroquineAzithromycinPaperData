@@ -15,6 +15,8 @@ azithromycinae2spikepolarplus.pdbqt -> Binding conformations obtained from Autod
 
 hydroxychloroquinespikeae2polarplus.pdbqt -> Binding conformations obtained from Autodock Vina for the spike-ACE2 complex and Hydroxychloroquine. Can be viewed in Python Molecule Viewer.
 
+confcoronavirus.txt -> Config file for Autodock Vina docking of the spike-receptor complex. The coordinates do not need to be changed when switching ligand files.
+
 
 
 
